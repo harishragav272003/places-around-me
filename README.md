@@ -67,6 +67,10 @@ Run the Django server and execute the HTML files.
 ## Output :
 ![image](https://github.com/harishragav272003/places-around-me/assets/119345345/66f71fe4-6640-4268-9a1c-c106411c0df9)
 
+![image](https://github.com/harishragav272003/places-around-me/assets/119345345/92446f81-959d-47a1-88bd-1879fbe73fd8)
+
+
+
 
 
 ## Result:
